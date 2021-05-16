@@ -89,6 +89,9 @@ nav{
 .dropdown-toggle::after{
     margin-right:2rem;
 }
+#particles.js{
+    width: 100%;
+}
 
 .intro{
   background: #922F2D;
